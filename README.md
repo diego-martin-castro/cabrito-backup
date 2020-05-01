@@ -3,7 +3,7 @@ Batch para realizar backups de carpetas y archivos.
 
 ## ¿Qué hace Cabrito Backup?
 
-### Procesos que ejecuta:
+### Procesos que ejecuta
 
 1 - Copia carpetas y archivos
 
