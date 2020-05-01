@@ -1,9 +1,9 @@
 # cabrito-backup
 Batch para realizar backups de carpetas y archivos.
 
-##¿Qué hace Cabrito Backup?
+## ¿Qué hace Cabrito Backup?
 
-###Procesos que ejecuta:
+### Procesos que ejecuta:
 
 1 - Copia carpetas y archivos
 
@@ -13,6 +13,6 @@ Batch para realizar backups de carpetas y archivos.
 
 4 - Borra los archivos temporales creados, logs y backups viejos. (setados en la variable de backupdays)
 
-###Requisitos
+### Requisitos
 Tener instalado 7-Zip para comprimir los backups.
 https://www.7-zip.org/download.html
